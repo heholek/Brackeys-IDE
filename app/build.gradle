@@ -123,4 +123,23 @@ dependencies {
     androidTestImplementation androidTestLibrary.junit_ext
     androidTestImplementation androidTestLibrary.test_runner
     androidTestImplementation androidTestLibrary.espresso_core
+implementation 'com.blacksquircle.ui:language-actionscript:1.2.1'
+  implementation 'com.blacksquircle.ui:language-c:1.2.1'
+  implementation 'com.blacksquircle.ui:language-cpp:1.2.1'
+  implementation 'com.blacksquircle.ui:language-csharp:1.2.1'
+  implementation 'com.blacksquircle.ui:language-groovy:1.2.1'
+  implementation 'com.blacksquircle.ui:language-html:1.2.1'
+  implementation 'com.blacksquircle.ui:language-java:1.2.1'
+  implementation 'com.blacksquircle.ui:language-javascript:1.2.1'
+  implementation 'com.blacksquircle.ui:language-json:1.2.1'
+  implementation 'com.blacksquircle.ui:language-kotlin:1.2.1'
+  implementation 'com.blacksquircle.ui:language-lisp:1.2.1'
+  implementation 'com.blacksquircle.ui:language-lua:1.2.1'
+  implementation 'com.blacksquircle.ui:language-markdown:1.2.1'
+  implementation 'com.blacksquircle.ui:language-plaintext:1.2.1'
+  implementation 'com.blacksquircle.ui:language-python:1.2.1'
+  implementation 'com.blacksquircle.ui:language-shell:1.2.1'
+  implementation 'com.blacksquircle.ui:language-sql:1.2.1'
+  implementation 'com.blacksquircle.ui:language-visualbasic:1.2.1'
+  implementation 'com.blacksquircle.ui:language-xml:1.2.1'
 }
